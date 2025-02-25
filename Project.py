@@ -61,9 +61,16 @@ while True:
         auth_system.Login()
         break
     else:
-        roasts = ["That wasn’t even close… Did you mash the keyboard with your forehead?","Congratulations! You just unlocked the ‘Can’t Follow Simple Instructions’ achievement.",
-                  "I’d explain what went wrong, but I don’t speak ‘clueless.’","I’d say ‘Try again,’ but at this point, I’ve lost all hope."]
-        
+        roasts = ["Are you trying to speedrun the ‘Biggest Disappointment’ leaderboard? Because you’re winning.",
+                  "Wow, even a broken clock makes better choices than you.",
+                  "I’d explain what went wrong, but I don’t speak ‘clueless.’",
+                  "If thinking was an Olympic sport, you’d be watching from the sidelines.",
+                  "I’d say ‘Try again,’ but at this point, I’ve lost all hope.",
+                  "Your brain must be on airplane mode. Turn it back on and try again.",
+                  "That choice was so bad, even ChatGPT is questioning your existence.",
+                  "You had one chance to prove you’re smarter than a potato… and you failed.",
+                  "Even my RAM has better memory than you.",
+                  "You're the reason tutorial videos start with ‘Hello everyone, except this guy.’"]      
         print(random.choice(roasts))
         option = int(input("Choose 1 to Register, 2 to Login: ")) 
 
