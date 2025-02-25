@@ -70,7 +70,8 @@ while True:
                   "That choice was so bad, even ChatGPT is questioning your existence.",
                   "You had one chance to prove you’re smarter than a potato… and you failed.",
                   "Even my RAM has better memory than you.",
-                  "You're the reason tutorial videos start with ‘Hello everyone, except this guy.’"]      
+                  "You're the reason tutorial videos start with ‘Hello everyone, except this guy.’"]  
+            
         print(random.choice(roasts))
         option = int(input("Choose 1 to Register, 2 to Login: ")) 
 
