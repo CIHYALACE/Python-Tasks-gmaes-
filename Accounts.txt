@@ -1,2 +1,1 @@
-{'fullName': 'aaaaaa', 'email': 'aaa', 'phone_no': 'aaa', 'password': 'aaa'}
-{'fullName': 'bbbbbb', 'email': 'bbb', 'phone_no': 'bbb', 'password': 'bbb'}
+{'fullName': 'AbdoYoussef', 'email': 'Abdo@gmail.com', 'phone_no': '01027983379', 'password': 'Abdo1234'}
